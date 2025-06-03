@@ -57,5 +57,4 @@ Este proyecto aplica **aprendizaje supervisado** para predecir el cumplimiento d
 ## 📂 Repositorio
 [Código y datos disponibles aquí](https://github.com/robert1357/aprendizaje-supervisado).  
 
----
-**⚠️ Nota**: Los resultados son específicos al contexto de Ate y requieren validación para su aplicación en otras jurisdicciones.  
+
